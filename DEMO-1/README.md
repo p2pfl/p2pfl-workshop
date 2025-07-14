@@ -1,4 +1,4 @@
-# 🧪 P2PFL MNIST Demo: Running Node1 and Node2
+# 🔬 P2PFL Demo: Running Node1 and Node2
 
 This demo shows how to run a simple **P2PFL** example using the MNIST dataset. It uses two nodes that collaborate to train a model without sharing raw data.
 
